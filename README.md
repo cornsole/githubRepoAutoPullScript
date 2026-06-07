@@ -50,7 +50,7 @@ chmod +x pullScript.sh
 ```
 실행후 진행
 
-#### 설명
+## 설명
 
 ##### 최소 실행시: git clone 진행
 
