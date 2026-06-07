@@ -55,8 +55,8 @@ chmod +x pullScript.sh
 ##### 최소 실행시: git clone 진행
 
 ##### 저장소가 이미 존재할경우
-> git fetch
-> git pull
-> 로컬 저장소 초기화후 동기화 진행 
+\> git fetch
+\> git pull
+\> 로컬 저장소 초기화후 동기화 진행 
 
 셋중 선택가능
